@@ -1,0 +1,21 @@
+{
+  "help": "*Liste des commandes* (/help) de @AlweNoBot :\n\n",
+  "indicates": "*GRAS* indique *obligatoire*\n*ITALIQUE* indique _facultatif_\n",
+  "misc": "\n*- Mixte -*\n",
+  "codfis": " - Calculez le code de taxe en fonction des données fournies\n",
+  "weather": " *ville* - Affiche des informations sur la météo dans la ville entrée\n",
+  "crypto": " *monnaie* - Affiche des informations sur la crypto-monnaie insérée\n",
+  "report": " - Envoyer des suggestions ou des bugs à résoudre au créateur de bot\n",
+  "twitch": " *streamer* - Affiche des informations sur le streamer Twitch\n",
+  "anime": " *anime* - Affiche des informations sur l'anime inséré\n",
+  "manga": " *manga* - Affiche des informations sur le manga entré\n",
+  "infos": "\n*Informations sur les jeux et les profils*\n",
+  "steam": " *surnom* - Affiche des informations sur le profil Steam\n",
+  "steamgame": " *jeu* - Afficher des informations sur un jeu Steam\n",
+  "srk": " *joueur* - Affiche des informations sur le joueur d'un jeu de combat\n",
+  "srkgame": " *jeu* - Affiche les 10 premiers classés dans un jeu de combat\n",
+  "srktour": " *tournoi* - Affiche des informations sur un tournoi de bagarreurs\n",
+  "overwatch": " - Afficher des informations sur le profil Overwatch\n",
+  "ytinfo": " *id* ou *nickname* - Afficher les informations sur la chaîne YouTube\n",
+  "csgo": " *nickname* - Afficher les statistiques du compte du CS:GO\n"
+}

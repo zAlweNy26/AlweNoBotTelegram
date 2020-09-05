@@ -1,0 +1,22 @@
+{
+  "help": "*Lista dei comandi* (/help) di @AlweNoBot :\n\n",
+  "indicates": "*GRASSETTO* indica *obbligatorio*\n*CORSIVO* indica _opzionale_\n",
+  "misc": "\n*- Misti -*\n",
+  "codfis": " - Calcola il codice fiscale in base ai dati forniti\n",
+  "weather": " *città* - Mostra informazioni sul meteo della città inserita\n",
+  "crypto": " *valuta* - Mostra informazioni sulla cryptomoneta\n",
+  "report": " - Invia suggerimenti o bugs da risolvere al creatore del bot\n",
+  "twitch": " *streamer* - Mostra informazioni sullo streamer di Twitch\n",
+  "anime": " *anime* - Mostra informazioni sull'anime inserito\n",
+  "manga": " *manga* - Mostra informazioni sul manga inserito\n",
+  "infos": "\n*- Informazioni su giochi e profili -*\n",
+  "steam": " *nickname* - Mostra informazioni sul profilo Steam\n",
+  "steamgame": " *gioco* - Mostra informazioni su un gioco di Steam\n",
+  "srk": " *giocatore* - Mostra informazioni sul giocatore di un picchiaduro\n",
+  "srkgame": " *gioco* - Mostra i primi 10 classificati in un picchiaduro\n",
+  "srktour": " *torneo* - Mostra informazioni sul torneo di un picchiaduro\n",
+  "overwatch": " - Mostra informazioni sul profilo Overwatch\n",
+  "ytinfo": " *id* o *nickname* - Mostra informazioni sul canale YouTube\n",
+  "csgo": " *nickname* - Mostra statistiche sull'account di CS:GO\n",
+  "wot": " *nickname* - Mostra statistiche sull'account di World of Tanks\n"
+}
